@@ -6,3 +6,4 @@ Google Chrome Extension – Lead Tracker
 – Utilized localStorage for persistent lead management, enabling offline access without external databases.
 – Designed a user-friendly, responsive UI with HTML and CSS for seamless real-time input, display, and deletion of leads.
 – Tools: JavaScript, Chrome Extension APIs, HTML, CSS
+
