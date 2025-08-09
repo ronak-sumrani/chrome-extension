@@ -22,4 +22,3 @@ function renderLeads() {
     }
     ulEl.innerHTML = listItems  
 }
-// ggggggg
